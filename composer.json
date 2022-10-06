@@ -1,0 +1,13 @@
+{
+    "name": "vendor/fate",
+    "description": "Fate CLI",
+    "authors": [
+        {
+            "name": "EspoirNorbert",
+            "email": "espoirnorbert@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    }
+}
